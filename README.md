@@ -13,7 +13,8 @@ This repository showcases practical Excel applications designed for business, ac
 Automates employee salary calculations, deductions, and attendance tracking with summarized reports.
 ## 🎓Gradebook
 Records student marks, computes total and average scores, and assigns grades automatically.
-## Dataset used
+### Dataset used
+-<a href="https://github.com/shilpa20031308/Data-Analysis/blob/main/Project_2.xlsx">Dataset </a>
 ## ⚖️Decision Factors
 Assists in evaluating multiple options using weighted scoring and visual comparison charts.
 ## 💰 Sales Database
