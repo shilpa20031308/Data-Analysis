@@ -227,7 +227,7 @@ Click here to open car inventory (1).xlsx
 
 - Generating professional reports without programming
 
-  👩‍💻 Author
+ ## 👩‍💻 Author
 
 ## Ambothu Shilpa
 - **📧 Email**: [shilpaambothu@gmail.com]
