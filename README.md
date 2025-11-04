@@ -229,7 +229,7 @@ Click here to open car inventory (1).xlsx
 
   👩‍💻 Author
 
-## Amgoth Shilpa
+## Ambothu Shilpa
 - **📧 Email**: [shilpaambothu@gmail.com]
 - **💼 GitHub**: [https://github.com/shilpa20031308]
 -**🌐 LinkedIn**: [https://www.linkedin.com/in/ambothu-shilpa-1a907b259]
