@@ -175,3 +175,31 @@ Each sheet focuses on:
 -  Conditional Formatting to highlight trends (e.g., high profits, low grades)
 
 - Dashboards summarizing important metrics
+
+  ## 📊 Project Results
+
+| Dataset          | Focus Area            | Key Outcome                                       |
+| ---------------- | --------------------- | ------------------------------------------------- |
+| Payroll          | Employee Pay Analysis | Identified salary trends and payroll distribution |
+| Gradebook        | Student Performance   | Ranked students and generated grading reports     |
+| Decision Factors | Business Criteria     | Weighted decision matrix for strategy             |
+| Sales Database   | Revenue & Profit      | Monthly trends and top-performing products        |
+| Car Inventory    | Stock Management      | Optimized car pricing and turnover rate           |
+
+
+## 🧾 Conclusion
+
+-  **This project showcases how Microsoft Excel can be a powerful tool for**:
+
+- Business and academic data analysis
+
+- Decision-making based on numerical and visual insights
+
+- Generating professional reports without programming
+
+  👩‍💻 Author
+
+## Amgoth Shilpa
+- **📧 Email**: [shilpaambothu@gmail.com]
+- **💼 GitHub**: [https://github.com/shilpa20031308]
+-**🌐 LinkedIn**: [https://www.linkedin.com/in/ambothu-shilpa-1a907b259]
