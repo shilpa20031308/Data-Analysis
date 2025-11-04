@@ -65,7 +65,12 @@ Each sheet focuses on:
 - Salary distribution by department  
 - Total payroll expenses  
 - Employees with highest and lowest pay  
-
+<p>
+📁 <strong>Project 1: Payroll Analysis</strong><br>
+<a href="https://github.com/shilpa20031308/Data-Analysis/blob/main/Project_1.xlsx" target="_blank">
+Click here to open Project_1.xlsx
+</a>
+</p>
 
 
 ## 2️⃣ Gradebook Data Analysis
@@ -89,6 +94,13 @@ Each sheet focuses on:
 -  Pass/fail summary using COUNTIF()
 
 -  Top performers ranking
+<p>
+📁 <strong>Project 2: Gradebook Analysis</strong><br>
+<a href="https://github.com/shilpa20031308/Data-Analysis/blob/main/Project_2.xlsx" target="_blank">
+Click here to open Project_2.xlsx
+</a>
+</p>
+  
 
 ##  3️⃣ Decision Factors Analysis
 
@@ -109,6 +121,12 @@ Each sheet focuses on:
 -  Comparison of alternatives
 
 -  Support for data-driven business planning
+  <p>
+📁 <strong>Project 3: Decision Factors</strong><br>
+<a href="https://github.com/shilpa20031308/Data-Analysis/blob/main/Decision%20Marker.xlsx" target="_blank">
+Click here to open Decision_Marker.xlsx
+</a>
+</p>
 
    ## 4️⃣ Sales Database Analysis
 
@@ -139,6 +157,12 @@ Each sheet focuses on:
 -  Pie chart for product contribution
 
 -  Bar chart for profit by region
+  <p>
+📁 <strong>Project 4: Sales Database</strong><br>
+<a href="https://github.com/shilpa20031308/Data-Analysis/blob/main/Sale%20Report.xlsx" target="_blank">
+Click here to open Sale_Report.xlsx
+</a>
+</p>
 
 ## 5️⃣ Car Inventory Analysis
 
@@ -163,6 +187,12 @@ Each sheet focuses on:
 -  Most demanded car models
 
 -  Depreciation comparison across brands
+  <p>
+📁 <strong>Project 5: Car Inventory</strong><br>
+<a href="https://github.com/shilpa20031308/Data-Analysis/blob/main/car%20inventory%20(1).xlsx" target="_blank">
+Click here to open car inventory (1).xlsx
+</a>
+</p>
 
  ### 📈 Visualization & Reports
 
