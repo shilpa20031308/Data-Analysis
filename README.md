@@ -1,4 +1,4 @@
-# 📊 Data Analysis Project using Microsoft Excel
+# 📊 Data Analyst Project using Microsoft Excel
 
 This project contains multiple **Data Analysis case studies** created using **Microsoft Excel**.  
 Each dataset demonstrates how Excel can be used to organize, calculate, visualize, and draw insights from real-world data.
